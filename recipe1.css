@@ -1,0 +1,72 @@
+body {
+    background-color: whitesmoke;
+}
+h1 {
+    color: pink;
+    font-size: 45px;
+    font-family: cursive;
+    text-align: center;
+}
+h2 {
+    color: pink;
+    font-size: 30px;
+    font-family: cursive;
+    text-align: center;
+}
+ul {
+    list-style: disc;
+    list-style-position: inside;
+    text-align: center;
+    color: black;
+    font-size: small;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3 {
+    color: pink;
+    font-size: 30px;
+    font-family: cursive;
+    text-align: center;
+}
+ul {
+    list-style: disc;
+    list-style-position: inside;
+    text-align: center;
+    color: black;
+    font-size: small;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+iframe{
+    display: block;
+    margin: auto;
+}
+   
+
+  h2 {
+    color: pink;
+    font-size: 30px;
+    font-family: cursive;
+    text-align: center;
+}
+ol {
+    list-style: disc;
+    list-style-position: inside;
+    text-align: center;
+    color: black;
+    font-size: small;
+    font-family: Arial, Helvetica, sans-serif;
+}
+a:link {
+    background-color: pink;
+    color: white;
+    padding: 14px 25px;
+    text-decoration: none;
+    display: block;
+    text-align:center;
+}
+a:hover, a:active {
+    background-color: pink;
+}
+
+
